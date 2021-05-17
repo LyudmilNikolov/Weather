@@ -1,3 +1,5 @@
+### Weather Prediction
+## Server C++
 The c++ server will receive a request from the UI and update the results. For the solution, I used POST request to update the weather.
  - The server will receive and update the values in JSON format
  - I used HTTP listener library to handle the request and JSON library.
